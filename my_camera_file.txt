@@ -1,0 +1,62 @@
+Accessibility of the building
+
+
+
+	AT -59, 59there is a narrowing in width that is too long. Along the points:
+ -59, 118. 
+-59, 177.  
+-59, 236.  
+0, 236.  
+59, 236.  
+.
+
+
+Free height:
+	100 percent compliant with the rules.
+
+
+ Gradient:
+	Not found in the building 
+
+Elevator: 
+75 percent accessibility for people with walking disabilities.
+75  percent accessibility for the blind.
+50  percent accessibility for the deaf.
+ In total, there are 0 accessible out of2. 
+
+
+Dead End:
+Not found in the building 
+
+Stairlift:
+	100 percent accessibility for people with walking disabilities.
+100  percent accessibility for the blind.
+100  percent accessibility for the deaf.
+ In total, there are 1 accessible out of1. 
+
+
+Stairs Not In Stairwell:
+0 percent accessibility for people with walking disabilities.
+50  percent accessibility for the blind.
+100  percent accessibility for the deaf.
+ In total, there are 0 accessible out of1. 
+
+
+
+ Escalator:
+	100 percent accessibility for people with walking disabilities.
+100  percent accessibility for the blind.
+100  percent accessibility for the deaf.
+ In total, there are 0 accessible out of1. 
+
+
+
+ Utility Room:
+Not found in the building 
+
+
+ Switches and Buttons:
+	Not found in the building 
+
+In summary: the building is 74.7222% accessible to the disabled, 80.5556% to the blind, and 83.3333% to the deaf.
+

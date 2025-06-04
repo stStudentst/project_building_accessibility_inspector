@@ -1,0 +1,87 @@
+nun
+elevator close
+true
+true
+elevator open
+80
+120
+100
+true
+true
+true
+0.9
+30
+true
+true
+4
+48
+100
+leading Marking
+leading Marking
+stairs Not In Stairwell
+true
+true
+60
+Holding_house
+true
+stairlift
+false
+true
+nun
+escalator
+true
+60
+150
+150
+true
+leading Marking
+leading Marking
+elevator close
+true
+true
+elevator open
+200
+500
+300
+true
+true
+true
+0.9
+30
+true
+true
+12
+true
+65
+48
+nun
+Utility room open
+47
+true
+true
+true
+true
+75
+true
+true
+76
+true
+80
+nun
+gradient
+1.2
+true
+true
+70
+5
+nun
+nun
+nun
+nun
+nun
+nun
+nun
+nun
+nun
+nun
+nun
