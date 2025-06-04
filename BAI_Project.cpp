@@ -103,6 +103,7 @@ int main()
             S_I.AddCoordinate(all_params[coord_X], all_params[coord_y]);
         }
     }
+    cout << "finish scan - now calculate final accessibility" << endl;
     C.AccessibilityCalculationlate(&S_I,&AE);
 
    /* Steps_Instack stack;
