@@ -4,7 +4,7 @@
 using namespace std;
 namespace fs = filesystem;
 
-string filePath = "C:/Users/User/Desktop/studies/The Project/Accessibility Inspector/BAI_Project/my_camera_file.txt";
+string filePath = "C:/Users/User/Desktop/studies/The Project/Accessibility Inspector/BAI_Project/Building_Accessibility_file.txt";
 ofstream myFile; 
 void Writing(string txt, int f)
 {

@@ -128,10 +128,10 @@ string Check_Camera::Read_file(string filePath, double* all_params[],Steps_Insta
             if (l_ELEMENT >= 85) l_ELEMENT = 0;
             inputFile.close();
         }
-        else {
-            cerr << "orror can't open the file \n" << endl;
-        }
         return (NOW) ? readLine : "...";
+    }
+    else {
+        cerr << "orror can't open the file \n" << endl;
     }
 }
 
