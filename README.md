@@ -20,11 +20,6 @@ You can read the complete project documentation [here](https://drive.google.com/
 
 ---
 
-## 🏃 Usage
+## 📌 Usage
 This is a prototype developed as a **final-year project**.  
 Instructions to run or simulate the system will be provided in the documentation files (to be added).
-
----
-
-## 📬 Contact
-estershtrit2575@gmail.com
